@@ -1,0 +1,4 @@
+14:17:57 INFO  [io.quarkus] (Quarkus Main Thread) quarkus-demo 1.0.0-SNAPSHOT on JVM (powered by Quarkus 2.9.2.Final) started in 1.418s. Listening on: http://localhost:8555
+14:17:57 INFO  [io.quarkus] (Quarkus Main Thread) Profile dev activated. Live Coding activated.
+14:17:57 INFO  [io.quarkus] (Quarkus Main Thread) Installed features: [cdi, resteasy-reactive, smallrye-context-propagation, smallrye-health, vertx]
+14:18:04 INFO  [or.bs.se.GreetingService] (executor-thread-0) Name - abc
